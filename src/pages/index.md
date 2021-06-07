@@ -16,7 +16,6 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/WhatsApp Image 2021-06-06 at 1.10.06 AM.jpeg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
